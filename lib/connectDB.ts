@@ -1,4 +1,7 @@
-
+export const config = {
+    runtime: 'nodejs',
+  };
+  
 import mongoose from "mongoose";
 
 // Connect to MongoDB

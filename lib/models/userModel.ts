@@ -1,3 +1,4 @@
+
 // userModel.ts
 import mongoose, { Schema, models, model } from "mongoose";
 import bcryptjs from "bcryptjs";
